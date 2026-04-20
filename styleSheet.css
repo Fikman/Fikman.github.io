@@ -8,8 +8,7 @@ header {
     background-color: #1A365D;
     transition: background-color 1s ease-in-out;
     color: white;
-    padding-right: 20px;
-    margin-bottom: 20px;
+    padding: 0px;
     text-align: center;
     position: fixed;
     top: 0;
